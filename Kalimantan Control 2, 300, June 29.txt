@@ -1,0 +1,44 @@
+Name: Kalimantan Control 2
+JSON
+Date: 26/6/2016
+JSON
+Clusters: 165
+JSON
+Alerts: 17622
+JSON
+Alerts with latest date: 
+17622
+JSON
+Clusters/Alerts: 0.94%
+JSON
+MostAlertsInCluster: 
+ComputedObject (Computing)
+JSON
+Num Distinct dates: 2
+JSON
+Latest date: 
+1465430400000
+JSON
+Epsilon: 
+600
+
+
+
+Imagery ©2016 TerraMetrics
+Terms of Use
+Layers
+ 
+ 
+ 
+ 
+Report a map error
+
+
+5 km 
+
+
+
+
+Map
+Satellite
+300

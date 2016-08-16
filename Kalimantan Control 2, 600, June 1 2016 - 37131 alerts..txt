@@ -1,0 +1,22 @@
+Name: Kalimantan Control
+JSON
+Table Date: 9/6/2016
+JSON
+Clusters: 140
+JSON
+Alerts: 37131
+JSON
+Alerts with latest date: 
+37131
+JSON
+Clusters/Alerts: 0.38%
+JSON
+MostAlertsInACluster: 7421
+JSON
+Num Distinct dates: 2
+JSON
+Latest date: 
+JSON
+Date (2016-06-01 00:00:00)
+JSON
+Epsilon: 600
